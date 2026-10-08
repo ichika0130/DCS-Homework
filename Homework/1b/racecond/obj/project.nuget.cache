@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1P1Nfth+Op0=",
+  "success": true,
+  "projectFilePath": "/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/synchr.csproj",
+  "expectedPackageFiles": [
+    "/home/bkubica/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

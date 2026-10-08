@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAjE0Y3pSgg=",
+  "success": true,
+  "projectFilePath": "/home/bkubica/DistrCompSys/2026-winter/lab1-2/long/long.csproj",
+  "expectedPackageFiles": [
+    "/home/bkubica/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/bin/Debug/net10.0/synchr
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/bin/Debug/net10.0/synchr.deps.json
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/bin/Debug/net10.0/synchr.runtimeconfig.json
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/bin/Debug/net10.0/synchr.dll
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/bin/Debug/net10.0/synchr.pdb
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.GeneratedMSBuildEditorConfig.editorconfig
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.AssemblyInfoInputs.cache
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.AssemblyInfo.cs
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.csproj.CoreCompileInputs.cache
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.dll
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/refint/synchr.dll
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.pdb
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/synchr.genruntimeconfig.cache
+/home/bkubica/DistrCompSys/2026-winter/lab1-2/racecond/obj/Debug/net10.0/ref/synchr.dll
